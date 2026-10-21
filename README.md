@@ -32,7 +32,7 @@
 
 ---
 
-### 5️⃣ Gestion d'un full**
+### 5️⃣ Gestion d'un **full**
 - Ajouter un nouveau disque de 1G avec LVM
 - Remplissez le à l'aide de la commande dd
 - Ajouter de nouveau un disque de 1G pour étendre le précédent afin de rajouter de la place

@@ -4,7 +4,7 @@
 
 ## 📌 Pré-requis
 - Une machine **Debian** (13 recommandé)  
-- Au moins un **client Windows ou Debian** avec interface graphique pour les tests  
+- Au moins un **client Debian** avec interface graphique pour les tests  
 - Connexion réseau entre serveur et client
 ---
 

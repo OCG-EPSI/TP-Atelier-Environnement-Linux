@@ -27,7 +27,7 @@
 
 ---
 
-### 4️⃣ Installation et configuration de proftpd**
+### 4️⃣ Installation et configuration de **proftpd**
 - Pouvoir accéder depuis le client avec filezilla
 
 ---

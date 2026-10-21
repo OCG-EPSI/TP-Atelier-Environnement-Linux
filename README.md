@@ -49,9 +49,3 @@
 - Le client doit pouvoir connecter son filer NFS directement
 
 ---
-
-
-### TODO
-
-- Réfléchir à une hiérarchie des utilisateurs pour une entreprise avec un contexte
-- Script powershell pour importer des utilisateurs depuis un fichier excel 
